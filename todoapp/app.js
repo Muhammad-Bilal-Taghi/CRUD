@@ -1,29 +1,4 @@
-// const addUserBtn = document.getElementById("addUser");
-// const usernameTextField = document.getElementById("username");
 
-// let userArray = [];
-
-// addUserBtn.onclick=()=>{
-//    const name = usernameTextField.value;
-//    userArray.push({"name": name});
-//    console.log(userArray)
-// }
-
-// function SaveInfo(){
-
-// }
-
-// function DisplayInfo(){
-    
-// }
-
-// function EditInfo(){
-    
-// }
-
-// function DeleteInfo(){
-    
-// }-->
 
 
 
